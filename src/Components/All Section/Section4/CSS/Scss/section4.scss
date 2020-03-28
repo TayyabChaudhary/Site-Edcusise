@@ -1,0 +1,52 @@
+
+.blog-bac{
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url('./../../../../Documents/Images_Folder/blog02.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    // min-height: 80vh;
+    margin-top: 60px;
+    h1{
+        font-size: 5em;
+        padding-top: 90px;
+        font-weight: 600;
+        font-family: sans-serif;
+    }
+    button{
+        padding: 10px 42px 42px;
+        border-radius: 40px;
+        font-size: 20px;
+background: #FF6700;    
+color: #fff;
+border: none;
+margin-top: 20px;
+    }
+    button:hover{
+        background: #fff;
+        color: #000000;
+        border:5px solid #FF6700;
+        transition: .3s;
+    }
+}
+.Edustice-section{
+    h1{
+        font-size: 5em;
+        padding-top: 40px;
+        font-family: sans-serif;
+    }
+}
+li.last-icons {
+    font-size: 3em;
+    color: #FF6700;
+    display: flex;
+    i{
+        border: 1px solid #EBEBEB;
+    padding: 22px;
+    border-radius: 50%;
+    }
+    p{
+        padding-left: 30px;
+        color: #000000;
+        font-weight: 600;
+    }
+}

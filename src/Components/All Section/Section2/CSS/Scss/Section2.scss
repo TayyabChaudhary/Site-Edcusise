@@ -1,0 +1,27 @@
+.welcome-section{
+    h1{
+        font-size: 5em;
+    padding-top: 40pt;
+    }
+    p{
+        font-size: 3.3em;
+        font-weight: 100;
+        color: #9e9993;
+        font-family: unset;
+    }
+}
+.feature-icons{
+    display: flex;
+    i{
+        font-size: 5em;
+        border: 1px solid #EBEBEB;
+    padding: 28px;
+    border-radius: 50%;
+    color: #FF6700; 
+    }
+    p{
+        padding-left: 20px;
+        font-size: 34px;
+        font-weight: 500;
+    }
+}
